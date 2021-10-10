@@ -13,4 +13,7 @@ The Bastion Host allows SSH egress to the App Host's Security Group
 The Bastion Host allows ICMP egress for Echo Requests
 The App Host allows SSH ingress from the Bastion Host's Security Group
 The App Host allows TCP egress over HTTP port 80 to perform updates.
-The App Host allows ICMP egress for Echo Requests
+The App Host allows ICMP egress for Echo Requests.
+
+
+![Screenshot 2021-10-09 at 22 03 24](https://user-images.githubusercontent.com/65329688/136681454-445a5796-2231-408a-84e8-04588a749f6e.png)
